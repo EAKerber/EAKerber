@@ -1,15 +1,12 @@
 ### Bem vindo ao meu perfil! Me chamo Eduardo Kerber 😄
 #
-<style>
-    .stats {
-        padding: 2px;
-        height: 200px;
-    }
-</style>
 
 <div>
-    <img class="stats" src="https://github-readme-stats.vercel.app/api?username=EAKerber&show_icons=true&theme=github_dark" alt="gitStats">
-    <img class= "stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAKerber&theme=github_dark" alt="langStats" >
+    <img style="padding: 2px; height: 200px"
+    src="https://github-readme-stats.vercel.app/api?username=EAKerber&show_icons=true&theme=github_dark"
+    alt="gitStats">
+    <img style="padding: 2px; height: 200px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAKerber&theme=github_dark" alt="langStats" >
 </div>
 
 ## Tecnologias que venho ultilizando:
