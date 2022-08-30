@@ -2,10 +2,10 @@
 #
 
 <div>
-    <img style="padding: 2px; height: 175px"
+    <img style="padding: 2px; height: 180px"
     src="https://github-readme-stats.vercel.app/api?username=EAKerber&show_icons=true&theme=github_dark"
     alt="gitStats">
-    <img style="padding: 2px; height: 175px"
+    <img style="padding: 2px; height: 180px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAKerber&theme=github_dark" alt="langStats" >
 </div>
 
