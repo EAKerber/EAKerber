@@ -5,7 +5,7 @@
 [<img style="padding: 2px; height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAKerber&layout=compact&theme=github_dark" alt="langStats" >](https://github-readme-stats.vercel.app/api/top-langs/?username=EAKerber&layout=compact&theme=github_dark)
 
 <div>
-    <i>Estatísticas:</i> <i><a>https://github.com/anuraghazra/github-readme-stats</a></i><i>.</i>
+     <i>Estatísticas: <a href="https://github.com/anuraghazra/github-readme-stats" >https://github.com/anuraghazra/github-readme-stats</a>.</i>
 </div>
 <br>
 <br>
